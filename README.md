@@ -5,3 +5,5 @@ In this video, we demonstrate how to build an image recognition system using the
 Using the Edge Impulse platform, we train and deploy a machine learning model to run directly on the ESP32-CAM. 
 The results are displayed on an OLED screen for easy viewing. Learn the basics of edge computing, data acquisition, model training, and deployment. 
 Check out our detailed step-by-step guide to create your own object detection system!
+
+Link Youtube: https://www.youtube.com/watch?v=bZIKVaD3dRk
